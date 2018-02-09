@@ -1,0 +1,16 @@
+{
+  "name": "importee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "module": "src/index.js",
+  "scripts": {
+    "distribute": "babel src -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
