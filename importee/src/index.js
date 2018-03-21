@@ -1,10 +1,10 @@
-export { default as MyClass } from './MyClass';
-export { default as MyOtherClass } from './MyOtherClass';
+export { default as Person } from './person';
+export { default as Dog } from './dog';
 
-// import MyClass from './MyClass';
-// import MyOtherClass from './MyOtherClass';
+// import Person from './person';
+// import Dog from './dog';
 //
 // export default {
-//     MyClass: MyClass,
-//     MyOtherClass: MyOtherClass
+//     Person: Person,
+//     Dog: Dog
 // };

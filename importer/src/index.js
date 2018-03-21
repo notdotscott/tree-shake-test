@@ -1,3 +1,4 @@
-import { MyOtherClass } from 'importee';
+import { Person } from 'importee';
 
-const myOtherInstance = new MyOtherClass();
+const person = new Person();
+person.sayHello();
